@@ -5,12 +5,14 @@ Module 15 Assignment
 
 Student: Mireille Walton, Email: mmj649@gmail.com
 
-**Project submission files included:**
+**Project submission files / materials include:**
 - index.html
 - static > css > style.css
 - static > css > logic.js
 - README.md
 -link to completed project: https://violetrogue12.github.io/leaflet_challenge/
+- earthquake data (all earthquakes within a month) - "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
+- base map from OpenStreetMap - https://www.openstreetmap.org/#map=0/66/102
 
 **Notes**
 Students were tasked with preparing a worldmap using Leaflet and plotting earthquake data obtained from USGS, including location, magnitiude and depth. Magnitude is represented by the size of the marker, whilst depth is represented by the color of the marker.  
