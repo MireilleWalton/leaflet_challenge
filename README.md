@@ -10,7 +10,7 @@ Student: Mireille Walton, Email: mmj649@gmail.com
 - static > css > style.css
 - static > css > logic.js
 - README.md
--link to completed project: https://violetrogue12.github.io/leaflet_challenge/
+- link to completed project: https://violetrogue12.github.io/leaflet_challenge/
 - earthquake data (all earthquakes within a month) - "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 - base map from OpenStreetMap - https://www.openstreetmap.org/#map=0/66/102
 
