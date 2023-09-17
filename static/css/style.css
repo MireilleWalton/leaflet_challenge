@@ -8,3 +8,22 @@ body,
 html {
   height: 100%;
 }
+
+/* Add this CSS to your stylesheet */
+.legend {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.legend-item {
+  margin-bottom: 5px;
+}
+
+.legend i {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 5px;
+}
